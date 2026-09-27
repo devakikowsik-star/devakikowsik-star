@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devakikowsik-star/devakikowsik-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="devakikowsik-star, developer profile on GitHub">
+</picture>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## About
+
+Developer on GitHub — building and shipping small projects.
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [risk-sheid-ai](https://github.com/devakikowsik-star/risk-sheid-ai) | AI-related repository |
+| [logistics-route-agent](https://github.com/devakikowsik-star/logistics-route-agent) | Route-planning agent project |
+| [CodeAlpha_WebScraping](https://github.com/devakikowsik-star/CodeAlpha_WebScraping) | Web scraping project |
+| [SCT_WD_2](https://github.com/devakikowsik-star/SCT_WD_2) | Web development repository |
+| [SCT_WD_1](https://github.com/devakikowsik-star/SCT_WD_1) | Web development repository |
+| [hello-node](https://github.com/devakikowsik-star/hello-node) | Node.js repository |
+| [todo-list](https://github.com/devakikowsik-star/todo-list) | Todo list application |
+
+## Connect
+
+- GitHub: [github.com/devakikowsik-star](https://github.com/devakikowsik-star)
